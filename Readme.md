@@ -129,3 +129,13 @@ groups_volume1.csv
 
 network_top25.png  
 groups_volume1.png
+
+## Визуализация сети
+
+### Топ-25 персонажей
+
+![network](network_top25.png)
+
+### Группы персонажей в томе 1
+
+![volume1](groups_volume1.png)
