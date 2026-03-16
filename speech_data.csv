@@ -1,0 +1,1220 @@
+"volume","source","target","Weight"
+"1","Abbe Morio","Anna_Pavlovna_Scherer",1
+"1","Abbe Morio","Pierre_Bezukhov",1
+"1","Aline_Kuragina","Vasili_Kuragin",2
+"1","Aline_Kuragina","пожилая дама",1
+"1","Anatole_Kuragin","Pierre_Bezukhov",7
+"1","Anatole_Kuragin","Prince_Nikolay_Bolkonsky",2
+"1","Anatole_Kuragin","Vasili_Kuragin",2
+"1","Anatole_Kuragin","Yakov _Anatole_s servant_",1
+"1","Anatole_Kuragin","более благоразумный человек",2
+"1","AndreyBolkonsky","Anna_Pavlovna_Scherer",7
+"1","AndreyBolkonsky","Bilibin",30
+"1","AndreyBolkonsky","Boris_Drubetskoy",8
+"1","AndreyBolkonsky","Emperor_Francis_I_of_Austria",6
+"1","AndreyBolkonsky","Hippolyte_Kuragin",1
+"1","AndreyBolkonsky","Mikhail_Ilarionovich_Kutuzov",8
+"1","AndreyBolkonsky","Nikolai_Rostov",4
+"1","AndreyBolkonsky","Pierre_Bezukhov",24
+"1","AndreyBolkonsky","Prince_Bagration",6
+"1","AndreyBolkonsky","Prince_Dolgorukov",11
+"1","AndreyBolkonsky","Prince_Kozlovsky",16
+"1","AndreyBolkonsky","Prince_Nesvitsky",12
+"1","AndreyBolkonsky","Prince_Nikolay_Bolkonsky",20
+"1","AndreyBolkonsky","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",15
+"1","AndreyBolkonsky","Princess_Mariya_Bolkonskaya",22
+"1","AndreyBolkonsky","Staff_Captain_Tushin",2
+"1","AndreyBolkonsky","Tsar_Alexander_I_of_Russia",2
+"1","AndreyBolkonsky","Weyrother",1
+"1","AndreyBolkonsky","Zherkov",2
+"1","AndreyBolkonsky","viscount",4
+"1","AndreyBolkonsky","адъютант",1
+"1","AndreyBolkonsky","генерал",1
+"1","AndreyBolkonsky","камердинер",1
+"1","AndreyBolkonsky","офицер",5
+"1","AndreyBolkonsky","солдаты",2
+"1","AndreyBolkonsky","штаб_офицер",3
+"1","Anna_Pavlovna_Scherer","Aline_Kuragina",1
+"1","Anna_Pavlovna_Scherer","AndreyBolkonsky",4
+"1","Anna_Pavlovna_Scherer","HeleneKuragin",2
+"1","Anna_Pavlovna_Scherer","Pierre_Bezukhov",18
+"1","Anna_Pavlovna_Scherer","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",2
+"1","Anna_Pavlovna_Scherer","Vasili_Kuragin",19
+"1","Austrian minister of war","AndreyBolkonsky",4
+"1","Austrian minister of war","адъютант",2
+"1","Bilibin","AndreyBolkonsky",40
+"1","Bilibin","Hippolyte_Kuragin",1
+"1","Bilibin","Prince_Dolgorukov",1
+"1","Bilibin","дипломаты",1
+"1","Bolkonsky_s architect","Prince_Nikolay_Bolkonsky",1
+"1","Boris_Drubetskoy","AndreyBolkonsky",2
+"1","Boris_Drubetskoy","Lieutenant_Alphonse_Karlovich_Berg",1
+"1","Boris_Drubetskoy","NatashaRostova",6
+"1","Boris_Drubetskoy","Nikolai_Rostov",52
+"1","Boris_Drubetskoy","Pierre_Bezukhov",12
+"1","Boris_Drubetskoy","Princess_Anna_Mikhaylovna_Drubetskaya",6
+"1","Boris_Drubetskoy","Vasili_Kuragin",1
+"1","Boris_Drubetskoy","Vera_Rostova",2
+"1","Catiche_eldest princess_","Pierre_Bezukhov",5
+"1","Catiche_eldest princess_","Princess_Anna_Mikhaylovna_Drubetskaya",3
+"1","Catiche_eldest princess_","Vasili_Kuragin",21
+"1","Count_Ilya_Rostov","Countess_Natalya_Rostova",5
+"1","Count_Ilya_Rostov","Julie_Karagina",1
+"1","Count_Ilya_Rostov","Marya_Dmitriyevna_Akhrosimova",2
+"1","Count_Ilya_Rostov","Marya_Lvovna_Karagina",9
+"1","Count_Ilya_Rostov","NatashaRostova",2
+"1","Count_Ilya_Rostov","Nikolai_Rostov",1
+"1","Count_Ilya_Rostov","Princess_Anna_Mikhaylovna_Drubetskaya",1
+"1","Count_Ilya_Rostov","Митенька",1
+"1","Count_Kirill_Bezukhov","Pierre_Bezukhov",1
+"1","Countess_Natalya_Rostova","Count_Ilya_Rostov",4
+"1","Countess_Natalya_Rostova","Marya_Dmitriyevna_Akhrosimova",7
+"1","Countess_Natalya_Rostova","Marya_Lvovna_Karagina",4
+"1","Countess_Natalya_Rostova","NatashaRostova",4
+"1","Countess_Natalya_Rostova","Pierre_Bezukhov",3
+"1","Countess_Natalya_Rostova","Princess_Anna_Mikhaylovna_Drubetskaya",6
+"1","Countess_Natalya_Rostova","Vera_Rostova",1
+"1","Countess_Natalya_Rostova","Митенька",1
+"1","Countess_Natalya_Rostova","девушка",1
+"1","Countess_Natalya_Rostova","лакей",1
+"1","Emperor_Francis_I_of_Austria","AndreyBolkonsky",8
+"1","Englishman","Fedor_Ivanovich_Dolokhov",2
+"1","Fedor_Ivanovich_Dolokhov","Anatole_Kuragin",1
+"1","Fedor_Ivanovich_Dolokhov","Englishman",1
+"1","Fedor_Ivanovich_Dolokhov","Mikhail_Ilarionovich_Kutuzov",1
+"1","Fedor_Ivanovich_Dolokhov","Pierre_Bezukhov",4
+"1","Fedor_Ivanovich_Dolokhov","Timohin",1
+"1","Fedor_Ivanovich_Dolokhov","Zherkov",17
+"1","Fedor_Ivanovich_Dolokhov","regimental commander",6
+"1","Fedor_Ivanovich_Dolokhov","француз",4
+"1","General_Mack","Mikhail_Ilarionovich_Kutuzov",1
+"1","General_Mack","Prince_Kozlovsky",3
+"1","HeleneKuragin","Pierre_Bezukhov",1
+"1","HeleneKuragin","Vasili_Kuragin",2
+"1","Hippolyte_Kuragin","AndreyBolkonsky",1
+"1","Hippolyte_Kuragin","Bilibin",1
+"1","Hippolyte_Kuragin","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",5
+"1","Hippolyte_Kuragin","viscount",5
+"1","Hippolyte_Kuragin","дипломаты",1
+"1","Julie_Karagina","Nikolai_Rostov",2
+"1","Kirsten","Nikolai_Rostov",13
+"1","Kirsten","Vasily_Vasska_Denisov",3
+"1","Lavrushka","Nikolai_Rostov",3
+"1","Lavrushka","Vasily_Vasska_Denisov",5
+"1","Lieutenant_Alphonse_Karlovich_Berg","Boris_Drubetskoy",2
+"1","Lieutenant_Alphonse_Karlovich_Berg","Nikolai_Rostov",4
+"1","Lieutenant_Alphonse_Karlovich_Berg","Pyotr_Nikolaitch_Shinshin",2
+"1","Marya_Dmitriyevna_Akhrosimova","Count_Ilya_Rostov",4
+"1","Marya_Dmitriyevna_Akhrosimova","NatashaRostova",4
+"1","Marya_Dmitriyevna_Akhrosimova","Pierre_Bezukhov",2
+"1","Marya_Dmitriyevna_Akhrosimova","Богданыч",1
+"1","Marya_Lvovna_Karagina","Count_Ilya_Rostov",6
+"1","Marya_Lvovna_Karagina","Countess_Natalya_Rostova",7
+"1","Marya_Lvovna_Karagina","NatashaRostova",2
+"1","Marya_Lvovna_Karagina","Princess_Anna_Mikhaylovna_Drubetskaya",1
+"1","Mikhail_Ilarionovich_Kutuzov","AndreyBolkonsky",12
+"1","Mikhail_Ilarionovich_Kutuzov","Fedor_Ivanovich_Dolokhov",2
+"1","Mikhail_Ilarionovich_Kutuzov","Miloradovich",1
+"1","Mikhail_Ilarionovich_Kutuzov","Prince_Bagration",3
+"1","Mikhail_Ilarionovich_Kutuzov","Prince_Kozlovsky",1
+"1","Mikhail_Ilarionovich_Kutuzov","Timohin",1
+"1","Mikhail_Ilarionovich_Kutuzov","Tsar_Alexander_I_of_Russia",3
+"1","Mikhail_Ilarionovich_Kutuzov","Weyrother",2
+"1","Mikhail_Ilarionovich_Kutuzov","regimental commander",4
+"1","Mikhail_Ilarionovich_Kutuzov","Дохтуров",1
+"1","Mikhail_Ilarionovich_Kutuzov","Ланжерон",1
+"1","Mikhail_Ilarionovich_Kutuzov","австрийский генерал",3
+"1","Mikhail_Ilarionovich_Kutuzov","генерал",4
+"1","Miloradovich","Tsar_Alexander_I_of_Russia",1
+"1","Miloradovich","апшеронцы",1
+"1","Napoleon_Bonaparte","AndreyBolkonsky",2
+"1","Napoleon_Bonaparte","Репнин",4
+"1","Napoleon_Bonaparte","Сухтелен",2
+"1","Napoleon_Bonaparte","адъютант",1
+"1","NatashaRostova","Boris_Drubetskoy",10
+"1","NatashaRostova","Countess_Natalya_Rostova",10
+"1","NatashaRostova","Marya_Dmitriyevna_Akhrosimova",13
+"1","NatashaRostova","Nikolai_Rostov",1
+"1","NatashaRostova","Petya_Rostov",3
+"1","NatashaRostova","Pierre_Bezukhov",2
+"1","NatashaRostova","Princess_Anna_Mikhaylovna_Drubetskaya",5
+"1","NatashaRostova","Sonya_Rostova",20
+"1","NatashaRostova","Vera_Rostova",3
+"1","Nikolai_Rostov","AndreyBolkonsky",4
+"1","Nikolai_Rostov","Boris_Drubetskoy",22
+"1","Nikolai_Rostov","Count_Ilya_Rostov",3
+"1","Nikolai_Rostov","God",1
+"1","Nikolai_Rostov","Kirsten",8
+"1","Nikolai_Rostov","Lavrushka",2
+"1","Nikolai_Rostov","Lieutenant_Alphonse_Karlovich_Berg",2
+"1","Nikolai_Rostov","NatashaRostova",1
+"1","Nikolai_Rostov","Prince_Bagration",13
+"1","Nikolai_Rostov","Sonya_Rostova",13
+"1","Nikolai_Rostov","Staff_Captain_Tushin",7
+"1","Nikolai_Rostov","Telyanin",12
+"1","Nikolai_Rostov","Vasily_Vasska_Denisov",18
+"1","Nikolai_Rostov","Vera_Rostova",2
+"1","Nikolai_Rostov","Zherkov",1
+"1","Nikolai_Rostov","Бондаренко",2
+"1","Nikolai_Rostov","гусар",3
+"1","Nikolai_Rostov","гусара",1
+"1","Nikolai_Rostov","денщик Телянина",1
+"1","Nikolai_Rostov","немец",3
+"1","Nikolai_Rostov","офицер",2
+"1","Petya_Rostov","NatashaRostova",6
+"1","Petya_Rostov","Sonya_Rostova",1
+"1","Pierre_Bezukhov","Abbe Morio",3
+"1","Pierre_Bezukhov","Anatole_Kuragin",7
+"1","Pierre_Bezukhov","AndreyBolkonsky",21
+"1","Pierre_Bezukhov","Anna_Pavlovna_Scherer",4
+"1","Pierre_Bezukhov","Boris_Drubetskoy",6
+"1","Pierre_Bezukhov","Catiche_eldest princess_",6
+"1","Pierre_Bezukhov","Countess_Natalya_Rostova",7
+"1","Pierre_Bezukhov","Fedor_Ivanovich_Dolokhov",2
+"1","Pierre_Bezukhov","HeleneKuragin",3
+"1","Pierre_Bezukhov","NatashaRostova",2
+"1","Pierre_Bezukhov","Princess_Anna_Mikhaylovna_Drubetskaya",1
+"1","Pierre_Bezukhov","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",3
+"1","Pierre_Bezukhov","Vasili_Kuragin",2
+"1","Pierre_Bezukhov","viscount",6
+"1","Pierre_Bezukhov","Богданыч",1
+"1","Prince_Bagration","AndreyBolkonsky",3
+"1","Prince_Bagration","Nikolai_Rostov",6
+"1","Prince_Bagration","Prince_Dolgorukov",2
+"1","Prince_Bagration","Staff_Captain_Tushin",3
+"1","Prince_Bagration","Tushin_s gunner",2
+"1","Prince_Bagration","адъютант",2
+"1","Prince_Bagration","офицер",2
+"1","Prince_Bagration","солдаты",1
+"1","Prince_Bagration","штаб_офицер",1
+"1","Prince_Dolgorukov","AndreyBolkonsky",12
+"1","Prince_Dolgorukov","Bilibin",2
+"1","Prince_Dolgorukov","Nikolai_Rostov",2
+"1","Prince_Dolgorukov","Prince_Bagration",2
+"1","Prince_Kozlovsky","AndreyBolkonsky",5
+"1","Prince_Kozlovsky","General_Mack",6
+"1","Prince_Kozlovsky","Mikhail_Ilarionovich_Kutuzov",1
+"1","Prince_Kozlovsky","писарь",1
+"1","Prince_Nesvitsky","AndreyBolkonsky",4
+"1","Prince_Nesvitsky","Vasily_Vasska_Denisov",3
+"1","Prince_Nesvitsky","Zherkov",1
+"1","Prince_Nesvitsky","Богданыч",3
+"1","Prince_Nesvitsky","адъютант",1
+"1","Prince_Nesvitsky","генерал",3
+"1","Prince_Nesvitsky","другой",1
+"1","Prince_Nesvitsky","казак",1
+"1","Prince_Nesvitsky","офицеры",2
+"1","Prince_Nesvitsky","свитский офицер",2
+"1","Prince_Nikolay_Bolkonsky","Anatole_Kuragin",8
+"1","Prince_Nikolay_Bolkonsky","AndreyBolkonsky",30
+"1","Prince_Nikolay_Bolkonsky","Bolkonsky_s architect",3
+"1","Prince_Nikolay_Bolkonsky","Princess_Anna_Mikhaylovna_Drubetskaya",1
+"1","Prince_Nikolay_Bolkonsky","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",5
+"1","Prince_Nikolay_Bolkonsky","Princess_Mariya_Bolkonskaya",22
+"1","Prince_Nikolay_Bolkonsky","Tikhon _servant_",3
+"1","Prince_Nikolay_Bolkonsky","Vasili_Kuragin",10
+"1","Prince_Nikolay_Bolkonsky","Yakov_Alpatych",3
+"1","Prince_Nikolay_Bolkonsky","mademoiselle_Bourienne",3
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","Boris_Drubetskoy",9
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","Count_Ilya_Rostov",3
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","Countess_Natalya_Rostova",16
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","Marya_Lvovna_Karagina",4
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","NatashaRostova",3
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","Pierre_Bezukhov",21
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","Vasili_Kuragin",23
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","old priest",2
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","княжна",1
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","лакей",1
+"1","Princess_Anna_Mikhaylovna_Drubetskaya","швейцар",1
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Anatole_Kuragin",2
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","AndreyBolkonsky",16
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Anna_Pavlovna_Scherer",3
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Hippolyte_Kuragin",2
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Katya _maid_",1
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Pierre_Bezukhov",8
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Prince_Nikolay_Bolkonsky",4
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Princess_Mariya_Bolkonskaya",17
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Vasili_Kuragin",4
+"1","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","mademoiselle_Bourienne",3
+"1","Princess_Mariya_Bolkonskaya","AndreyBolkonsky",20
+"1","Princess_Mariya_Bolkonskaya","Prince_Nikolay_Bolkonsky",9
+"1","Princess_Mariya_Bolkonskaya","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",5
+"1","Princess_Mariya_Bolkonskaya","Vasili_Kuragin",1
+"1","Princess_Mariya_Bolkonskaya","mademoiselle_Bourienne",4
+"1","Pyotr_Nikolaitch_Shinshin","Lieutenant_Alphonse_Karlovich_Berg",3
+"1","Pyotr_Nikolaitch_Shinshin","Богданыч",1
+"1","Sonya_Rostova","NatashaRostova",14
+"1","Sonya_Rostova","Nikolai_Rostov",4
+"1","Staff_Captain_Tushin","AndreyBolkonsky",3
+"1","Staff_Captain_Tushin","Nikolai_Rostov",3
+"1","Staff_Captain_Tushin","Prince_Bagration",1
+"1","Staff_Captain_Tushin","Tushin_s gunner",2
+"1","Staff_Captain_Tushin","Медведев",1
+"1","Staff_Captain_Tushin","артиллерийская прислуга",1
+"1","Staff_Captain_Tushin","пехотный офицер",5
+"1","Staff_Captain_Tushin","солдат",1
+"1","Staff_Captain_Tushin","штаб_офицер",2
+"1","Telyanin","Nikolai_Rostov",89
+"1","Telyanin","Vasily_Vasska_Denisov",1
+"1","Tikhon _servant_","Bolkonsky_s architect",1
+"1","Tikhon _servant_","Prince_Nikolay_Bolkonsky",1
+"1","Timohin","regimental commander",26
+"1","Timohin","солдат",1
+"1","Tsar_Alexander_I_of_Russia","Mikhail_Ilarionovich_Kutuzov",2
+"1","Tsar_Alexander_I_of_Russia","Чарторижский",1
+"1","Tsar_Alexander_I_of_Russia","павлоградцы",1
+"1","Tushin_s gunner","AndreyBolkonsky",1
+"1","Tushin_s gunner","Prince_Bagration",1
+"1","Tushin_s gunner","Staff_Captain_Tushin",4
+"1","Vasili_Kuragin","Aline_Kuragina",1
+"1","Vasili_Kuragin","Anatole_Kuragin",3
+"1","Vasili_Kuragin","Anna_Pavlovna_Scherer",18
+"1","Vasili_Kuragin","Boris_Drubetskoy",1
+"1","Vasili_Kuragin","Catiche_eldest princess_",21
+"1","Vasili_Kuragin","HeleneKuragin",2
+"1","Vasili_Kuragin","Pierre_Bezukhov",13
+"1","Vasili_Kuragin","Prince_Nikolay_Bolkonsky",5
+"1","Vasili_Kuragin","Princess_Anna_Mikhaylovna_Drubetskaya",17
+"1","Vasili_Kuragin","Princess_Mariya_Bolkonskaya",4
+"1","Vasili_Kuragin","viscount",1
+"1","Vasili_Kuragin","Лоррен",2
+"1","Vasili_Kuragin","дама",1
+"1","Vasily_Vasska_Denisov","Kirsten",2
+"1","Vasily_Vasska_Denisov","Lavrushka",4
+"1","Vasily_Vasska_Denisov","Nikolai_Rostov",28
+"1","Vasily_Vasska_Denisov","Prince_Nesvitsky",5
+"1","Vasily_Vasska_Denisov","Telyanin",3
+"1","Vasily_Vasska_Denisov","Миронов",1
+"1","Vasily_Vasska_Denisov","гусары",1
+"1","Vasily_Vasska_Denisov","казак",1
+"1","Vasily_Vasska_Denisov","начальник",1
+"1","Vera_Rostova","Boris_Drubetskoy",1
+"1","Vera_Rostova","Countess_Natalya_Rostova",3
+"1","Vera_Rostova","Marya_Lvovna_Karagina",1
+"1","Vera_Rostova","NatashaRostova",6
+"1","Vera_Rostova","Nikolai_Rostov",3
+"1","Weyrother","Ланжерон",1
+"1","Yakov_Alpatych","Prince_Nesvitsky",1
+"1","Yakov_Alpatych","Prince_Nikolay_Bolkonsky",6
+"1","Zherkov","AndreyBolkonsky",2
+"1","Zherkov","Fedor_Ivanovich_Dolokhov",8
+"1","Zherkov","Prince_Bagration",1
+"1","Zherkov","Prince_Nesvitsky",3
+"1","Zherkov","Богданыч",1
+"1","Zherkov","австрийский генерал",4
+"1","Zherkov","аудитор",1
+"1","Zherkov","генерал Штраух",2
+"1","Zherkov","гусарские офицеры",3
+"1","mademoiselle_Bourienne","Prince_Nikolay_Bolkonsky",1
+"1","mademoiselle_Bourienne","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",2
+"1","mademoiselle_Bourienne","Princess_Mariya_Bolkonskaya",6
+"1","old priest","дама",2
+"1","regimental commander","Fedor_Ivanovich_Dolokhov",9
+"1","regimental commander","Mikhail_Ilarionovich_Kutuzov",1
+"1","regimental commander","Prince_Bagration",3
+"1","regimental commander","Timohin",9
+"1","regimental commander","Михайло Митрич _батальонный командир_",4
+"1","regimental commander","адъютант",2
+"1","regimental commander","солдаты",1
+"1","regimental commander","солдаты пехотного полка",1
+"1","viscount","AndreyBolkonsky",3
+"1","viscount","Anna_Pavlovna_Scherer",2
+"1","viscount","HeleneKuragin",1
+"1","viscount","Hippolyte_Kuragin",3
+"1","viscount","Pierre_Bezukhov",5
+"1","viscount","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",1
+"1","Богданыч","Count_Ilya_Rostov",2
+"1","Богданыч","Marya_Dmitriyevna_Akhrosimova",1
+"1","Богданыч","Nikolai_Rostov",3
+"1","Богданыч","Prince_Nesvitsky",3
+"1","Богданыч","Pyotr_Nikolaitch_Shinshin",2
+"1","Богданыч","Vasily_Vasska_Denisov",2
+"1","Богданыч","Zherkov",3
+"1","Богданыч","адъютант",1
+"1","Богданыч","генерал",2
+"1","Вторая княжна","Princess_Anna_Mikhaylovna_Drubetskaya",2
+"1","Другой француз","француз",1
+"1","Ланжерон","Weyrother",1
+"1","Лоррен","Вторая княжна",3
+"1","Митенька","Count_Ilya_Rostov",1
+"1","Репнин","Napoleon_Bonaparte",2
+"1","Сидоров","солдаты",1
+"1","Сидоров","француз",1
+"1","Сухтелен","Napoleon_Bonaparte",1
+"1","Тит","берейтор",2
+"1","Тит","шутник",1
+"1","Франц","Bilibin",1
+"1","Штаб_ротмистр","Vasily_Vasska_Denisov",1
+"1","австрийский генерал","Mikhail_Ilarionovich_Kutuzov",2
+"1","австрийский генерал","Zherkov",1
+"1","адъютант","AndreyBolkonsky",1
+"1","адъютант","Napoleon_Bonaparte",1
+"1","адъютант","Tsar_Alexander_I_of_Russia",1
+"1","адъютант","regimental commander",1
+"1","адъютант","немец_доктор",2
+"1","адъютант","солдаты",1
+"1","альзасец","Nikolai_Rostov",2
+"1","апшеронцы","Miloradovich",1
+"1","аудитор","Zherkov",3
+"1","батальонный командир","regimental commander",1
+"1","берейтор","Тит",10
+"1","генерал","Mikhail_Ilarionovich_Kutuzov",4
+"1","генерал","Prince_Nesvitsky",1
+"1","генерал","Богданыч",3
+"1","генерал","офицеры",1
+"1","генерал","свитский офицер",1
+"1","голос","Pierre_Bezukhov",1
+"1","горничная","Countess_Natalya_Rostova",1
+"1","горничная","Princess_Mariya_Bolkonskaya",1
+"1","гренадер","Fedor_Ivanovich_Dolokhov",1
+"1","гусар","Nikolai_Rostov",3
+"1","гусар","пехотинец",1
+"1","гусар","фурштатский солдат",1
+"1","гусарские офицеры","Zherkov",4
+"1","дама","Vasili_Kuragin",1
+"1","дама","old priest",1
+"1","денщик","Nikolai_Rostov",1
+"1","денщик","солдат",1
+"1","денщик Телянина","Nikolai_Rostov",3
+"1","дипломаты","AndreyBolkonsky",1
+"1","другой адъютант","AndreyBolkonsky",1
+"1","другой офицер","Nikolai_Rostov",1
+"1","другой офицер","Prince_Nesvitsky",2
+"1","другой офицер","офицер",1
+"1","другой солдат","немец",1
+"1","ефрейтор","Зикин",1
+"1","казак","пленный",1
+"1","кто_то","Prince_Bagration",1
+"1","лакей","Countess_Natalya_Rostova",1
+"1","лакей","Princess_Anna_Mikhaylovna_Drubetskaya",1
+"1","лекарша","AndreyBolkonsky",10
+"1","молодой солдат","дяденька",1
+"1","немец","Nikolai_Rostov",2
+"1","немец_доктор","Лоррен",1
+"1","немец_доктор","адъютант",2
+"1","один из гусар","Nikolai_Rostov",4
+"1","один из офицеров","офицеры",1
+"1","один солдат","Петров",1
+"1","один француз","француз",1
+"1","офицер","AndreyBolkonsky",2
+"1","офицер","Nikolai_Rostov",2
+"1","офицер","артиллерийская прислуга",1
+"1","офицер","девушка_немка",1
+"1","офицер","другой офицер",2
+"1","офицер","солдат",3
+"1","офицер","ямщик",1
+"1","офицер посмелее","Prince_Nesvitsky",1
+"1","пехотинец","гусар",1
+"1","пехотный офицер","Staff_Captain_Tushin",2
+"1","писарь","Prince_Kozlovsky",1
+"1","пожилая дама","Aline_Kuragina",1
+"1","полк","Tsar_Alexander_I_of_Russia",1
+"1","свитский офицер","Prince_Nesvitsky",1
+"1","свитский офицер","Богданыч",1
+"1","слуга","Princess_Mariya_Bolkonskaya",1
+"1","солдат","AndreyBolkonsky",1
+"1","солдат","Nikolai_Rostov",2
+"1","солдат","другой солдат",1
+"1","солдат","казак",1
+"1","солдат","товарищ",1
+"1","солдатик","Nikolai_Rostov",1
+"1","солдаты","Сидоров",1
+"1","солдаты","адъютант",1
+"1","солдаты пехотного полка","Mikhail_Ilarionovich_Kutuzov",1
+"1","субалтерн_офицер","Timohin",1
+"1","толпа","Nikolai_Rostov",1
+"1","унтер_офицер","Nikolai_Rostov",4
+"1","француз","Fedor_Ivanovich_Dolokhov",1
+"1","хохол","Nikolai_Rostov",1
+"1","худой солдат","артиллеристы",1
+"1","чиновник","AndreyBolkonsky",1
+"1","швейцар","официант",1
+"1","штаб_офицер","AndreyBolkonsky",6
+"1","штаб_офицер","Prince_Bagration",1
+"1","штаб_офицер","Staff_Captain_Tushin",5
+"1","шутник","Тит",1
+"2","Anatole_Kuragin","Fedor_Ivanovich_Dolokhov",21
+"2","Anatole_Kuragin","NatashaRostova",10
+"2","Anatole_Kuragin","Pierre_Bezukhov",7
+"2","Anatole_Kuragin","Балага",5
+"2","Anatole_Kuragin","Гаврило",1
+"2","Anatole_Kuragin","цыганка Матреша",1
+"2","AndreyBolkonsky","Arakcheev",5
+"2","AndreyBolkonsky","Countess_Natalya_Rostova",5
+"2","AndreyBolkonsky","Kochubey",1
+"2","AndreyBolkonsky","NatashaRostova",14
+"2","AndreyBolkonsky","Pierre_Bezukhov",68
+"2","AndreyBolkonsky","Prince_Meshersky",2
+"2","AndreyBolkonsky","Prince_Nikolay_Bolkonsky",2
+"2","AndreyBolkonsky","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",1
+"2","AndreyBolkonsky","Princess_Mariya_Bolkonskaya",12
+"2","AndreyBolkonsky","Sonya_Rostova",1
+"2","AndreyBolkonsky","Vera_Rostova",3
+"2","AndreyBolkonsky","Антон",1
+"2","AndreyBolkonsky","Демьян",2
+"2","AndreyBolkonsky","Иванушка",1
+"2","AndreyBolkonsky","Пелагеюшка",3
+"2","AndreyBolkonsky","Петруша",1
+"2","AndreyBolkonsky","Сперанский",5
+"2","AndreyBolkonsky","барон",1
+"2","AndreyBolkonsky","екатериненский старик",1
+"2","AndreyBolkonsky","лакей Петр",1
+"2","AndreyBolkonsky","старуха",1
+"2","Anisya Fedorovna","NatashaRostova",1
+"2","Anna_Pavlovna_Scherer","Boris_Drubetskoy",3
+"2","Anna_Pavlovna_Scherer","Hippolyte_Kuragin",1
+"2","Arakcheev","AndreyBolkonsky",7
+"2","Boris_Drubetskoy","Count_Rostopchin",1
+"2","Boris_Drubetskoy","Julie_Karagina",2
+"2","Boris_Drubetskoy","NatashaRostova",1
+"2","Boris_Drubetskoy","Nikolai_Rostov",25
+"2","Boris_Drubetskoy","Prince_Nikolay_Bolkonsky",1
+"2","Chekmar","Count_Ilya_Rostov",5
+"2","Chekmar","кобель",1
+"2","Count_Ilya_Rostov","Chekmar",3
+"2","Count_Ilya_Rostov","Countess_Natalya_Rostova",1
+"2","Count_Ilya_Rostov","Danila",2
+"2","Count_Ilya_Rostov","Fedor_Ivanovich_Dolokhov",1
+"2","Count_Ilya_Rostov","HeleneKuragin",1
+"2","Count_Ilya_Rostov","Lieutenant_Alphonse_Karlovich_Berg",2
+"2","Count_Ilya_Rostov","Marya_Dmitriyevna_Akhrosimova",3
+"2","Count_Ilya_Rostov","Nastasya Ivanovna _buffoon_",2
+"2","Count_Ilya_Rostov","NatashaRostova",7
+"2","Count_Ilya_Rostov","Nikolai_Rostov",14
+"2","Count_Ilya_Rostov","Princess_Anna_Mikhaylovna_Drubetskaya",3
+"2","Count_Ilya_Rostov","Pyotr_Nikolaitch_Shinshin",1
+"2","Count_Ilya_Rostov","Sonya_Rostova",1
+"2","Count_Ilya_Rostov","Vasily_Vasska_Denisov",1
+"2","Count_Ilya_Rostov","повар",1
+"2","Count_Ilya_Rostov","старичок",1
+"2","Count_Ilya_Rostov","эконом",1
+"2","Count_Rostopchin","Boris_Drubetskoy",1
+"2","Count_Rostopchin","Mikhail_Ilarionovich_Kutuzov",1
+"2","Count_Rostopchin","Pierre_Bezukhov",1
+"2","Count_Rostopchin","Prince_Nikolay_Bolkonsky",5
+"2","Countess_Natalya_Rostova","AndreyBolkonsky",9
+"2","Countess_Natalya_Rostova","Boris_Drubetskoy",1
+"2","Countess_Natalya_Rostova","NatashaRostova",37
+"2","Countess_Natalya_Rostova","Nikolai_Rostov",12
+"2","Countess_Natalya_Rostova","Vasily_Vasska_Denisov",2
+"2","Countess_Natalya_Rostova","Диммлер",1
+"2","Danila","Count_Ilya_Rostov",3
+"2","Danila","Nikolai_Rostov",6
+"2","Dunyasha","NatashaRostova",4
+"2","Fedor_Ivanovich_Dolokhov","Anatole_Kuragin",20
+"2","Fedor_Ivanovich_Dolokhov","Nikolai_Rostov",34
+"2","Fedor_Ivanovich_Dolokhov","Pierre_Bezukhov",8
+"2","Fedor_Ivanovich_Dolokhov","Vasily_Vasska_Denisov",1
+"2","Fedor_Ivanovich_Dolokhov","лакей",1
+"2","HeleneKuragin","Boris_Drubetskoy",1
+"2","HeleneKuragin","Count_Ilya_Rostov",2
+"2","HeleneKuragin","NatashaRostova",10
+"2","HeleneKuragin","Pierre_Bezukhov",12
+"2","Hippolyte_Kuragin","Anna_Pavlovna_Scherer",5
+"2","Ilagin","Erza",1
+"2","Ilagin","Nikolai_Rostov",11
+"2","Ilagin","Uncle",1
+"2","Ilagin","hunter",1
+"2","Joseph_Alexeevich_Bazdeev","Pierre_Bezukhov",28
+"2","Joseph_Alexeevich_Bazdeev","слуга",1
+"2","Julie_Karagina","Boris_Drubetskoy",1
+"2","Kochubey","AndreyBolkonsky",2
+"2","Kochubey","екатериненский старик",2
+"2","Lieutenant_Alphonse_Karlovich_Berg","Count_Ilya_Rostov",1
+"2","Lieutenant_Alphonse_Karlovich_Berg","Pierre_Bezukhov",3
+"2","Lieutenant_Alphonse_Karlovich_Berg","Vera_Rostova",4
+"2","Lieutenant_Alphonse_Karlovich_Berg","тесть",1
+"2","Lieutenant_Alphonse_Karlovich_Berg","товарищ",1
+"2","Marya_Bogdanovna","Princess_Mariya_Bolkonskaya",1
+"2","Marya_Dmitriyevna_Akhrosimova","Count_Ilya_Rostov",1
+"2","Marya_Dmitriyevna_Akhrosimova","NatashaRostova",12
+"2","Marya_Dmitriyevna_Akhrosimova","Sonya_Rostova",1
+"2","Mikhail_Ilarionovich_Kutuzov","Count_Bennigsen",1
+"2","Napoleon_Bonaparte","Tsar_Alexander_I_of_Russia",2
+"2","Nastasya Ivanovna _buffoon_","Count_Ilya_Rostov",1
+"2","Nastasya Ivanovna _buffoon_","NatashaRostova",1
+"2","NatashaRostova","Anatole_Kuragin",2
+"2","NatashaRostova","AndreyBolkonsky",15
+"2","NatashaRostova","Count_Ilya_Rostov",5
+"2","NatashaRostova","Countess_Natalya_Rostova",73
+"2","NatashaRostova","Danila",1
+"2","NatashaRostova","HeleneKuragin",1
+"2","NatashaRostova","Marya_Dmitriyevna_Akhrosimova",7
+"2","NatashaRostova","Nastasya Ivanovna _buffoon_",2
+"2","NatashaRostova","Nikolai_Rostov",122
+"2","NatashaRostova","Petya_Rostov",1
+"2","NatashaRostova","Pierre_Bezukhov",11
+"2","NatashaRostova","Princess_Mariya_Bolkonskaya",1
+"2","NatashaRostova","Sonya_Rostova",71
+"2","NatashaRostova","Uncle",4
+"2","NatashaRostova","Vasily_Vasska_Denisov",8
+"2","NatashaRostova","Диммлер",2
+"2","NatashaRostova","Кондратьевна",1
+"2","NatashaRostova","Мавруша",1
+"2","NatashaRostova","Никита",1
+"2","NatashaRostova","Поля",1
+"2","NatashaRostova","Федор",1
+"2","NatashaRostova","графиня",1
+"2","Nikolai_Rostov","Boris_Drubetskoy",12
+"2","Nikolai_Rostov","Count_Ilya_Rostov",10
+"2","Nikolai_Rostov","Countess_Natalya_Rostova",5
+"2","Nikolai_Rostov","Danila",4
+"2","Nikolai_Rostov","Fedor_Ivanovich_Dolokhov",16
+"2","Nikolai_Rostov","God",1
+"2","Nikolai_Rostov","Ilagin",4
+"2","Nikolai_Rostov","Karay",5
+"2","Nikolai_Rostov","Milka",1
+"2","Nikolai_Rostov","NatashaRostova",90
+"2","Nikolai_Rostov","Pierre_Bezukhov",1
+"2","Nikolai_Rostov","Sonya_Rostova",11
+"2","Nikolai_Rostov","Uncle",6
+"2","Nikolai_Rostov","Vasily_Vasska_Denisov",33
+"2","Nikolai_Rostov","hunter",1
+"2","Nikolai_Rostov","hunter2",1
+"2","Nikolai_Rostov","Захар",1
+"2","Nikolai_Rostov","Кто_то",1
+"2","Nikolai_Rostov","доктор",3
+"2","Nikolai_Rostov","лакей",2
+"2","Nikolai_Rostov","один из офицеров",1
+"2","Nikolai_Rostov","офицер",1
+"2","Nikolai_Rostov","солдат",1
+"2","Nikolai_Rostov","фельдшер",4
+"2","Nikolai_Rostov","человек в помочах",2
+"2","Nikolai_Rostov","ямщик",3
+"2","Petya_Rostov","Nikolai_Rostov",3
+"2","Petya_Rostov","Uncle",3
+"2","Petya_Rostov","Vasily_Vasska_Denisov",3
+"2","Pierre_Bezukhov","Anatole_Kuragin",15
+"2","Pierre_Bezukhov","AndreyBolkonsky",51
+"2","Pierre_Bezukhov","Count_Rostopchin",1
+"2","Pierre_Bezukhov","Fedor_Ivanovich_Dolokhov",2
+"2","Pierre_Bezukhov","HeleneKuragin",7
+"2","Pierre_Bezukhov","Joseph_Alexeevich_Bazdeev",12
+"2","Pierre_Bezukhov","Lieutenant_Alphonse_Karlovich_Berg",1
+"2","Pierre_Bezukhov","NatashaRostova",10
+"2","Pierre_Bezukhov","Nikolai_Rostov",1
+"2","Pierre_Bezukhov","Prince_Nesvitsky",5
+"2","Pierre_Bezukhov","Princess_Mariya_Bolkonskaya",17
+"2","Pierre_Bezukhov","Vasili_Kuragin",3
+"2","Pierre_Bezukhov","Villarsky",5
+"2","Pierre_Bezukhov","Пелагеюшка",5
+"2","Pierre_Bezukhov","Смольянинов _ритор_",10
+"2","Pierre_Bezukhov","кучер",1
+"2","Pierre_Bezukhov","масоны",1
+"2","Pierre_Bezukhov","управляющий",1
+"2","Prince_Kozlovsky","Tsar_Alexander_I_of_Russia",1
+"2","Prince_Nesvitsky","Pierre_Bezukhov",3
+"2","Prince_Nikolay_Bolkonsky","AndreyBolkonsky",3
+"2","Prince_Nikolay_Bolkonsky","Count_Rostopchin",5
+"2","Prince_Nikolay_Bolkonsky","NatashaRostova",2
+"2","Prince_Nikolay_Bolkonsky","Pierre_Bezukhov",3
+"2","Prince_Nikolay_Bolkonsky","Princess_Mariya_Bolkonskaya",9
+"2","Prince_Nikolay_Bolkonsky","Tikhon _servant_",2
+"2","Prince_Nikolay_Bolkonsky","Метивье",1
+"2","Princess_Anna_Mikhaylovna_Drubetskaya","Boris_Drubetskoy",3
+"2","Princess_Anna_Mikhaylovna_Drubetskaya","Count_Ilya_Rostov",2
+"2","Princess_Anna_Mikhaylovna_Drubetskaya","Julie_Karagina",1
+"2","Princess_Anna_Mikhaylovna_Drubetskaya","Marya_Lvovna_Karagina",1
+"2","Princess_Anna_Mikhaylovna_Drubetskaya","Nikolai_Rostov",1
+"2","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","AndreyBolkonsky",1
+"2","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya","Princess_Mariya_Bolkonskaya",9
+"2","Princess_Mariya_Bolkonskaya","AndreyBolkonsky",13
+"2","Princess_Mariya_Bolkonskaya","Marya_Bogdanovna",1
+"2","Princess_Mariya_Bolkonskaya","NatashaRostova",2
+"2","Princess_Mariya_Bolkonskaya","Pierre_Bezukhov",15
+"2","Princess_Mariya_Bolkonskaya","Prince_Nikolay_Bolkonsky",2
+"2","Princess_Mariya_Bolkonskaya","Princess_Elisabeta_Lisa_Karlovna_Bolkonskaya",4
+"2","Princess_Mariya_Bolkonskaya","Savishna_nurse_",2
+"2","Princess_Mariya_Bolkonskaya","mademoiselle_Bourienne",2
+"2","Princess_Mariya_Bolkonskaya","Пелагеюшка",1
+"2","Pyotr_Nikolaitch_Shinshin","Count_Ilya_Rostov",1
+"2","Pyotr_Nikolaitch_Shinshin","NatashaRostova",1
+"2","Rostov_s groom","Nikolai_Rostov",1
+"2","Savishna_nurse_","Princess_Mariya_Bolkonskaya",4
+"2","Sonya_Rostova","Marya_Dmitriyevna_Akhrosimova",2
+"2","Sonya_Rostova","NatashaRostova",43
+"2","Sonya_Rostova","Nikolai_Rostov",12
+"2","Sonya_Rostova","Pierre_Bezukhov",1
+"2","Sonya_Rostova","Луиза Ивановна",1
+"2","Sonya_Rostova","Пелагея Даниловна Мелюкова",1
+"2","Staff_Captain_Tushin","Nikolai_Rostov",3
+"2","Staff_Captain_Tushin","Vasily_Vasska_Denisov",2
+"2","Tsar_Alexander_I_of_Russia","Napoleon_Bonaparte",1
+"2","Tsar_Alexander_I_of_Russia","Prince_Kozlovsky",2
+"2","Tsar_Alexander_I_of_Russia","генерал",1
+"2","Uncle","Anisya Fedorovna",1
+"2","Uncle","NatashaRostova",9
+"2","Uncle","Nikolai_Rostov",6
+"2","Uncle","Rugai",11
+"2","Vasili_Kuragin","Pierre_Bezukhov",6
+"2","Vasily_Vasska_Denisov","Count_Ilya_Rostov",1
+"2","Vasily_Vasska_Denisov","Countess_Natalya_Rostova",3
+"2","Vasily_Vasska_Denisov","Fedor_Ivanovich_Dolokhov",2
+"2","Vasily_Vasska_Denisov","NatashaRostova",4
+"2","Vasily_Vasska_Denisov","Nikolai_Rostov",23
+"2","Vasily_Vasska_Denisov","Pierre_Bezukhov",2
+"2","Vasily_Vasska_Denisov","Йогель",1
+"2","Vasily_Vasska_Denisov","офицеры",1
+"2","Vasily_Vasska_Denisov","пехотный офицер",4
+"2","Vera_Rostova","AndreyBolkonsky",6
+"2","Vera_Rostova","Countess_Natalya_Rostova",1
+"2","Vera_Rostova","Lieutenant_Alphonse_Karlovich_Berg",2
+"2","Vera_Rostova","NatashaRostova",1
+"2","Vera_Rostova","Nikolai_Rostov",1
+"2","Vera_Rostova","Sonya_Rostova",1
+"2","Villarsky","Pierre_Bezukhov",9
+"2","hunter2","Nikolai_Rostov",1
+"2","regimental commander","Vasily_Vasska_Denisov",1
+"2","viscount","l_homme à l_esprit profond",1
+"2","Антон","AndreyBolkonsky",1
+"2","Балага","Anatole_Kuragin",8
+"2","Балага","Fedor_Ivanovich_Dolokhov",4
+"2","Бицкий","AndreyBolkonsky",2
+"2","Бицкий","Сперанский",2
+"2","Гаврило","Anatole_Kuragin",2
+"2","Демьян","AndreyBolkonsky",1
+"2","Диммлер","Countess_Natalya_Rostova",1
+"2","Диммлер","NatashaRostova",1
+"2","Диммлер","Nikolai_Rostov",3
+"2","Диммлер","Sonya_Rostova",1
+"2","Захар","Nikolai_Rostov",2
+"2","Иванушка","AndreyBolkonsky",1
+"2","Иогель","Nikolai_Rostov",1
+"2","Иогель","Vasily_Vasska_Denisov",1
+"2","Макарин","Anatole_Kuragin",1
+"2","Марья Ивановна","Nikolai_Rostov",2
+"2","Метивье","mademoiselle_Bourienne",1
+"2","Миша","NatashaRostova",1
+"2","Пелагеюшка","AndreyBolkonsky",5
+"2","Пелагеюшка","Pierre_Bezukhov",2
+"2","Пелагеюшка","Princess_Mariya_Bolkonskaya",2
+"2","Пелагея Даниловна Мелюкова","NatashaRostova",1
+"2","Пелагея Даниловна Мелюкова","Sonya_Rostova",1
+"2","Пелагея Даниловна Мелюкова","буфетчик",1
+"2","Перонская","NatashaRostova",9
+"2","Прокофий","Nikolai_Rostov",5
+"2","Смольянинов _ритор_","Pierre_Bezukhov",20
+"2","Сперанский","AndreyBolkonsky",12
+"2","Фока","NatashaRostova",1
+"2","вахмистр","Vasily_Vasska_Denisov",1
+"2","великий мастер","Pierre_Bezukhov",3
+"2","взгляд","NatashaRostova",1
+"2","вторая Мелюкова","девушка",1
+"2","генерал","Boris_Drubetskoy",8
+"2","генерал","Count_Rostopchin",6
+"2","генерал","Nikolai_Rostov",1
+"2","генерал","Prince_Nikolay_Bolkonsky",6
+"2","горничная","NatashaRostova",4
+"2","горничная","Prince_Nikolay_Bolkonsky",1
+"2","девушка","AndreyBolkonsky",2
+"2","девушка","NatashaRostova",3
+"2","девушка","вторая Мелюкова",1
+"2","девушки","AndreyBolkonsky",1
+"2","дежурный","AndreyBolkonsky",1
+"2","дипломат","l_homme à l_esprit profond",1
+"2","доктор","Nikolai_Rostov",8
+"2","доктор","фельдшер",19
+"2","дядюшка","NatashaRostova",1
+"2","екатериненский старик","AndreyBolkonsky",3
+"2","екатериненский старик","Kochubey",1
+"2","камердинер","Pierre_Bezukhov",1
+"2","кто","AndreyBolkonsky",1
+"2","кто_то","Nikolai_Rostov",1
+"2","кучер","Pierre_Bezukhov",1
+"2","лакей","Count_Ilya_Rostov",1
+"2","лакей","Nikolai_Rostov",1
+"2","лакей Петр","AndreyBolkonsky",2
+"2","няня","NatashaRostova",1
+"2","один","другой",1
+"2","один из офицеров","Nikolai_Rostov",1
+"2","офицер","Nikolai_Rostov",1
+"2","пехотный офицер","Vasily_Vasska_Denisov",5
+"2","повар","Count_Ilya_Rostov",1
+"2","полковник","Лазарев",1
+"2","слуга","Joseph_Alexeevich_Bazdeev",1
+"2","слуга Пьера","Pierre_Bezukhov",1
+"2","смелая крестьянка","NatashaRostova",1
+"2","смотритель","Pierre_Bezukhov",1
+"2","солдат","Nikolai_Rostov",1
+"2","старуха","AndreyBolkonsky",1
+"2","улан","Vasily_Vasska_Denisov",1
+"2","фельдшер","Nikolai_Rostov",4
+"2","цыганка Матреша","Anatole_Kuragin",1
+"2","цыганка Матреша","Fedor_Ivanovich_Dolokhov",1
+"2","человек в помочах","Nikolai_Rostov",5
+"2","эконом","Count_Ilya_Rostov",1
+"2","ямщик","Nikolai_Rostov",1
+"3","AndreyBolkonsky","Mikhail_Ilarionovich_Kutuzov",3
+"3","AndreyBolkonsky","NatashaRostova",4
+"3","AndreyBolkonsky","Pierre_Bezukhov",26
+"3","AndreyBolkonsky","Prince_Nikolay_Bolkonsky",1
+"3","AndreyBolkonsky","Princess_Mariya_Bolkonskaya",4
+"3","AndreyBolkonsky","Timohin",3
+"3","AndreyBolkonsky","Vasily_Vasska_Denisov",1
+"3","AndreyBolkonsky","Yakov_Alpatych",9
+"3","AndreyBolkonsky","адъютант",3
+"3","Anna_Pavlovna_Scherer","Vasili_Kuragin",3
+"3","Balashev","General_Davoust",1
+"3","Balashev","Napoleon_Bonaparte",7
+"3","Berthier","Napoleon_Bonaparte",1
+"3","Bolkonsky_s architect","Princess_Mariya_Bolkonskaya",2
+"3","Boris_Drubetskoy","Mikhail_Ilarionovich_Kutuzov",1
+"3","Boris_Drubetskoy","Paisi_Kaysarov",1
+"3","Boris_Drubetskoy","Pierre_Bezukhov",7
+"3","Captain_Ramballe","Gerasim",1
+"3","Captain_Ramballe","Pierre_Bezukhov",36
+"3","Captain_Ramballe","Макар Алексеевич",1
+"3","Catiche_eldest princess_","Pierre_Bezukhov",2
+"3","Clausewitz","Wolzogen",1
+"3","Count_Bennigsen","Pierre_Bezukhov",2
+"3","Count_Ilya_Rostov","Countess_Natalya_Rostova",3
+"3","Count_Ilya_Rostov","Lieutenant_Alphonse_Karlovich_Berg",4
+"3","Count_Ilya_Rostov","NatashaRostova",6
+"3","Count_Ilya_Rostov","Petya_Rostov",4
+"3","Count_Ilya_Rostov","Pierre_Bezukhov",10
+"3","Count_Ilya_Rostov","Pyotr_Nikolaitch_Shinshin",1
+"3","Count_Ilya_Rostov","Васильич",2
+"3","Count_Ilya_Rostov","дворецкий",1
+"3","Count_Ilya_Rostov","офицер",2
+"3","Count_Rostopchin","Mikhail_Ilarionovich_Kutuzov",2
+"3","Count_Rostopchin","Pierre_Bezukhov",4
+"3","Count_Rostopchin","Vereschagin",1
+"3","Count_Rostopchin","адъютант",1
+"3","Count_Rostopchin","кучер",1
+"3","Count_Rostopchin","полицеймейстер",1
+"3","Count_Rostopchin","смотритель",1
+"3","Countess_Natalya_Rostova","Count_Ilya_Rostov",6
+"3","Countess_Natalya_Rostova","Dunyasha",1
+"3","Countess_Natalya_Rostova","NatashaRostova",8
+"3","Countess_Natalya_Rostova","Pierre_Bezukhov",3
+"3","Countess_Natalya_Rostova","Sonya_Rostova",1
+"3","Countess_Natalya_Rostova","управляющий",1
+"3","Dron_Zakharych","Princess_Mariya_Bolkonskaya",9
+"3","Dron_Zakharych","Yakov_Alpatych",9
+"3","Dunyasha _Bolkonsky maid_","Ilyin",1
+"3","Dunyasha _Bolkonsky maid_","Princess_Mariya_Bolkonskaya",3
+"3","Fedor_Ivanovich_Dolokhov","Mikhail_Ilarionovich_Kutuzov",3
+"3","Fedor_Ivanovich_Dolokhov","Pierre_Bezukhov",1
+"3","Ferapontov","Yakov_Alpatych",11
+"3","General_Davoust","Balashev",3
+"3","Gerasim","Captain_Ramballe",1
+"3","Gerasim","Макар Алексеевич",2
+"3","HeleneKuragin","аббат_иезуит",1
+"3","HeleneKuragin","молодой иностранный принц",3
+"3","Ilyin","Dunyasha _Bolkonsky maid_",2
+"3","Ilyin","Nikolai_Rostov",7
+"3","Ilyin","Марья Генриховна",1
+"3","Ilyin","мужик",2
+"3","Joachim_Murat","Balashev",3
+"3","Julie_Karagina","Pierre_Bezukhov",13
+"3","Julie_Karagina","ополченец",5
+"3","Lavrushka","Ilyin",1
+"3","Lavrushka","Napoleon_Bonaparte",3
+"3","Lavrushka","Nikolai_Rostov",2
+"3","Lelorgne d_Ideville","Napoleon_Bonaparte",2
+"3","Lieutenant_Alphonse_Karlovich_Berg","AndreyBolkonsky",2
+"3","Lieutenant_Alphonse_Karlovich_Berg","Count_Ilya_Rostov",5
+"3","Lieutenant_Alphonse_Karlovich_Berg","Countess_Natalya_Rostova",2
+"3","Lieutenant_Alphonse_Karlovich_Berg","NatashaRostova",1
+"3","Mavra_Kuzminishna","NatashaRostova",2
+"3","Mavra_Kuzminishna","камердинер",1
+"3","Mavra_Kuzminishna","офицер",8
+"3","Michaud","Wolzogen",1
+"3","Mikhail_Ilarionovich_Kutuzov","AndreyBolkonsky",14
+"3","Mikhail_Ilarionovich_Kutuzov","Boris_Drubetskoy",3
+"3","Mikhail_Ilarionovich_Kutuzov","Count_Bennigsen",1
+"3","Mikhail_Ilarionovich_Kutuzov","Count_Rostopchin",1
+"3","Mikhail_Ilarionovich_Kutuzov","Fedor_Ivanovich_Dolokhov",4
+"3","Mikhail_Ilarionovich_Kutuzov","Paisi_Kaysarov",2
+"3","Mikhail_Ilarionovich_Kutuzov","Pierre_Bezukhov",1
+"3","Mikhail_Ilarionovich_Kutuzov","Prince_Wurtemberg",1
+"3","Mikhail_Ilarionovich_Kutuzov","Raevsky",2
+"3","Mikhail_Ilarionovich_Kutuzov","Vasily_Vasska_Denisov",1
+"3","Mikhail_Ilarionovich_Kutuzov","Wolzogen",2
+"3","Mikhail_Ilarionovich_Kutuzov","Yermolov",5
+"3","Mikhail_Ilarionovich_Kutuzov","Шнейдер",1
+"3","Mikhail_Ilarionovich_Kutuzov","адъютант",1
+"3","Mikhail_Ilarionovich_Kutuzov","генерал",5
+"3","Mikhail_Ilarionovich_Kutuzov","попадья",1
+"3","Napoleon_Bonaparte","Balashev",31
+"3","Napoleon_Bonaparte","Berthier",4
+"3","Napoleon_Bonaparte","Lavrushka",1
+"3","Napoleon_Bonaparte","Lelorgne d_Ideville",1
+"3","Napoleon_Bonaparte","Бельяр",1
+"3","Napoleon_Bonaparte","Де_Боссе",5
+"3","Napoleon_Bonaparte","Рапп",2
+"3","Napoleon_Bonaparte","адъютант",6
+"3","Napoleon_Bonaparte","адъютант Наполеона",4
+"3","Napoleon_Bonaparte","гвардеец",1
+"3","Napoleon_Bonaparte","посыльный",1
+"3","NatashaRostova","AndreyBolkonsky",6
+"3","NatashaRostova","Count_Ilya_Rostov",7
+"3","NatashaRostova","Countess_Natalya_Rostova",19
+"3","NatashaRostova","Dunyasha",1
+"3","NatashaRostova","Mavra_Kuzminishna",3
+"3","NatashaRostova","Petya_Rostov",2
+"3","NatashaRostova","Pierre_Bezukhov",11
+"3","NatashaRostova","Pyotr_Nikolaitch_Shinshin",1
+"3","NatashaRostova","Sonya_Rostova",7
+"3","NatashaRostova","Васильич",1
+"3","NatashaRostova","Петька",1
+"3","NatashaRostova","буфетчик",2
+"3","NatashaRostova","майор",1
+"3","Nikolai_Rostov","Dron_Zakharych",1
+"3","Nikolai_Rostov","Ilyin",4
+"3","Nikolai_Rostov","Lavrushka",2
+"3","Nikolai_Rostov","Princess_Mariya_Bolkonskaya",2
+"3","Nikolai_Rostov","Sonya_Rostova",1
+"3","Nikolai_Rostov","Yakov_Alpatych",5
+"3","Nikolai_Rostov","Андрей Севастьяныч",1
+"3","Nikolai_Rostov","Карп",1
+"3","Nikolai_Rostov","Марья Генриховна",2
+"3","Nikolai_Rostov","доктор",1
+"3","Nikolai_Rostov","мужик",1
+"3","Nikolai_Rostov","мужики",2
+"3","Paisi_Kaysarov","Boris_Drubetskoy",1
+"3","Petya_Rostov","Count_Ilya_Rostov",4
+"3","Petya_Rostov","NatashaRostova",2
+"3","Petya_Rostov","Pierre_Bezukhov",1
+"3","Pfuel","AndreyBolkonsky",1
+"3","Pfuel","Prince_Volkonsky",2
+"3","Pierre_Bezukhov","AndreyBolkonsky",20
+"3","Pierre_Bezukhov","Boris_Drubetskoy",3
+"3","Pierre_Bezukhov","Captain_Ramballe",12
+"3","Pierre_Bezukhov","Count_Bennigsen",2
+"3","Pierre_Bezukhov","Count_Ilya_Rostov",8
+"3","Pierre_Bezukhov","Count_Rostopchin",4
+"3","Pierre_Bezukhov","Countess_Natalya_Rostova",3
+"3","Pierre_Bezukhov","Julie_Karagina",10
+"3","Pierre_Bezukhov","NatashaRostova",7
+"3","Pierre_Bezukhov","Petya_Rostov",1
+"3","Pierre_Bezukhov","Timohin",1
+"3","Pierre_Bezukhov","bereiter",2
+"3","Pierre_Bezukhov","адъютант",10
+"3","Pierre_Bezukhov","доктор",2
+"3","Pierre_Bezukhov","женщина",1
+"3","Pierre_Bezukhov","княжна",5
+"3","Pierre_Bezukhov","кучер",2
+"3","Pierre_Bezukhov","мародер",1
+"3","Pierre_Bezukhov","один из солдат 3",1
+"3","Pierre_Bezukhov","офицер",5
+"3","Pierre_Bezukhov","сенатов",1
+"3","Pierre_Bezukhov","солдат",1
+"3","Pierre_Bezukhov","солдаты",6
+"3","Pierre_Bezukhov","управляющий",1
+"3","Pierre_Bezukhov","французы",1
+"3","Pierre_Bezukhov","чиновник",2
+"3","Pierre_Bezukhov","широкий солдат",1
+"3","Prince_Nikolay_Bolkonsky","AndreyBolkonsky",2
+"3","Prince_Nikolay_Bolkonsky","Bolkonsky_s architect",1
+"3","Prince_Nikolay_Bolkonsky","Princess_Mariya_Bolkonskaya",15
+"3","Prince_Nikolay_Bolkonsky","Tikhon _servant_",4
+"3","Prince_Nikolay_Bolkonsky","Yakov_Alpatych",2
+"3","Prince_Nikolay_Bolkonsky","mademoiselle_Bourienne",2
+"3","Prince_Nikolay_Bolkonsky","Десаль",6
+"3","Princess_Mariya_Bolkonskaya","AndreyBolkonsky",7
+"3","Princess_Mariya_Bolkonskaya","Bolkonsky_s architect",1
+"3","Princess_Mariya_Bolkonskaya","Dron_Zakharych",13
+"3","Princess_Mariya_Bolkonskaya","Dunyasha",2
+"3","Princess_Mariya_Bolkonskaya","Dunyasha _Bolkonsky maid_",6
+"3","Princess_Mariya_Bolkonskaya","Nikolai_Rostov",2
+"3","Princess_Mariya_Bolkonskaya","Pierre_Bezukhov",1
+"3","Princess_Mariya_Bolkonskaya","Prince_Nikolay_Bolkonsky",5
+"3","Princess_Mariya_Bolkonskaya","mademoiselle_Bourienne",2
+"3","Princess_Mariya_Bolkonskaya","предводитель",1
+"3","Princess_Mariya_Bolkonskaya","старик",2
+"3","Pyotr_Nikolaitch_Shinshin","Count_Ilya_Rostov",1
+"3","Pyotr_Nikolaitch_Shinshin","NatashaRostova",1
+"3","Raevsky","Mikhail_Ilarionovich_Kutuzov",1
+"3","Sonya_Rostova","Countess_Natalya_Rostova",3
+"3","Sonya_Rostova","NatashaRostova",7
+"3","Tikhon _servant_","Prince_Nikolay_Bolkonsky",1
+"3","Timohin","AndreyBolkonsky",10
+"3","Timohin","Pierre_Bezukhov",1
+"3","Tsar_Alexander_I_of_Russia","AndreyBolkonsky",1
+"3","Tsar_Alexander_I_of_Russia","Boris_Drubetskoy",1
+"3","Vasili_Kuragin","Anna_Pavlovna_Scherer",8
+"3","Vasili_Kuragin","l_homme de beaucoup de mérite",2
+"3","Vasily_Vasska_Denisov","AndreyBolkonsky",5
+"3","Vasily_Vasska_Denisov","Mikhail_Ilarionovich_Kutuzov",2
+"3","Vereshchagin","Count_Rostopchin",1
+"3","Wife_of_Ferapontov","Ferapontov",1
+"3","Wolzogen","Clausewitz",1
+"3","Wolzogen","Mikhail_Ilarionovich_Kutuzov",2
+"3","Yakov_Alpatych","AndreyBolkonsky",4
+"3","Yakov_Alpatych","Dron_Zakharych",10
+"3","Yakov_Alpatych","Ferapontov",3
+"3","Yakov_Alpatych","Nikolai_Rostov",5
+"3","Yakov_Alpatych","Wife_of_Alpatych",2
+"3","Yakov_Alpatych","губернатор",1
+"3","Yermolov","Mikhail_Ilarionovich_Kutuzov",1
+"3","bereiter","Pierre_Bezukhov",5
+"3","l_homme de beaucoup de mérite","Anna_Pavlovna_Scherer",1
+"3","l_homme de beaucoup de mérite","Vasili_Kuragin",1
+"3","mademoiselle_Bourienne","Princess_Mariya_Bolkonskaya",6
+"3","mademoiselle_Bourienne","Десаль",1
+"3","young Nikolenka Bolkonsky","AndreyBolkonsky",1
+"3","Андрей Севастьяныч","Nikolai_Rostov",1
+"3","Валуев","Tsar_Alexander_I_of_Russia",1
+"3","Данило Терентьич","Мишка",1
+"3","Де_Боссе","Napoleon_Bonaparte",4
+"3","Десаль","Prince_Nikolay_Bolkonsky",5
+"3","Десаль","mademoiselle_Bourienne",1
+"3","Ефим","форейтор",1
+"3","Игнат","мальчик",1
+"3","Макар Алексеевич","Gerasim",2
+"3","Макар Алексеевич","Pierre_Bezukhov",1
+"3","Марья Генриховна","Nikolai_Rostov",2
+"3","Мишка","Данило Терентьич",1
+"3","Паулучи","Tsar_Alexander_I_of_Russia",2
+"3","Паулучи","Wolzogen",1
+"3","Рапп","Napoleon_Bonaparte",5
+"3","Степан Степанович","Pierre_Bezukhov",1
+"3","аббат_иезуит","HeleneKuragin",1
+"3","адъютант","Count_Rostopchin",2
+"3","адъютант","Napoleon_Bonaparte",2
+"3","адъютант","Pierre_Bezukhov",14
+"3","адъютант Наполеона","Napoleon_Bonaparte",2
+"3","буфетчик","NatashaRostova",2
+"3","возчик","Pierre_Bezukhov",1
+"3","гвардеец","Napoleon_Bonaparte",1
+"3","генерал","Mikhail_Ilarionovich_Kutuzov",1
+"3","генерал","Piotr_Petrovich_Konovnitsyn",1
+"3","генерал","один из штабных",1
+"3","горничная","Sonya_Rostova",2
+"3","губернатор","Yakov_Alpatych",4
+"3","дворецкий","Count_Ilya_Rostov",2
+"3","дворецкий","NatashaRostova",1
+"3","девка","Pierre_Bezukhov",1
+"3","доктор","Ilyin",1
+"3","доктор","NatashaRostova",1
+"3","доктор","Nikolai_Rostov",1
+"3","доктор","Pierre_Bezukhov",7
+"3","доктор","Princess_Mariya_Bolkonskaya",4
+"3","доктор","камердинер",1
+"3","доктор","фельдшеры",1
+"3","другие солдаты","Pierre_Bezukhov",1
+"3","другой","один",1
+"3","другой","ополченцы",1
+"3","другой офицер","Pierre_Bezukhov",1
+"3","женщина","Pierre_Bezukhov",3
+"3","женщина","муж",1
+"3","задний","передний мужик",1
+"3","исправник","Yakov_Alpatych",1
+"3","камердинер","NatashaRostova",1
+"3","камердинер","доктор",1
+"3","камердинер","старушка",1
+"3","крестьяне Болконских","Princess_Mariya_Bolkonskaya",2
+"3","кто_то","Julie_Karagina",2
+"3","кучер","Pierre_Bezukhov",2
+"3","люди","Countess_Natalya_Rostova",1
+"3","майор","NatashaRostova",2
+"3","малый","целовальник",1
+"3","молодой иностранный принц","HeleneKuragin",3
+"3","муж","женщина",2
+"3","мужик","Ilyin",1
+"3","мужик","Nikolai_Rostov",3
+"3","один","Pierre_Bezukhov",1
+"3","один из солдат 1","Pierre_Bezukhov",1
+"3","один из солдат 2","Pierre_Bezukhov",1
+"3","один из солдат 3","Pierre_Bezukhov",1
+"3","ополченец","Julie_Karagina",11
+"3","откупщик","Tsar_Alexander_I_of_Russia",1
+"3","офицер","Count_Ilya_Rostov",1
+"3","офицер","Mavra_Kuzminishna",6
+"3","офицер","Nikolai_Rostov",1
+"3","офицер","Pierre_Bezukhov",10
+"3","офицер","Марья Генриховна",1
+"3","офицер","солдат",1
+"3","офицер","солдаты",2
+"3","офицерик","полковник",1
+"3","первый солдат","Pierre_Bezukhov",1
+"3","полицеймейстер","кучер",1
+"3","полковник","адъютант",1
+"3","помещик","Yakov_Alpatych",1
+"3","предводитель","Princess_Mariya_Bolkonskaya",1
+"3","приближенные","Count_Rostopchin",3
+"3","приказный","Pierre_Bezukhov",1
+"3","приказный","полицеймейстер",2
+"3","сенатор","Pierre_Bezukhov",1
+"3","солдат","Pierre_Bezukhov",2
+"3","солдат","мужик",1
+"3","солдаты","Pierre_Bezukhov",3
+"3","солдаты","ополченцы",1
+"3","старик","Princess_Mariya_Bolkonskaya",2
+"3","старичок","Dron_Zakharych",1
+"3","толпа","Yakov_Alpatych",1
+"3","унтер_офицер","солдаты",1
+"3","управляющий","NatashaRostova",1
+"3","форейтор","Ефим",1
+"3","француз","Pierre_Bezukhov",3
+"3","французы","Pierre_Bezukhov",1
+"3","чиновник","Pierre_Bezukhov",2
+"3","штабный начальник","AndreyBolkonsky",1
+"3","шутник","Pierre_Bezukhov",1
+"4","AndreyBolkonsky","NatashaRostova",5
+"4","AndreyBolkonsky","Princess_Mariya_Bolkonskaya",13
+"4","Anna_Ignatyevna_Malvintsev","Nikolai_Rostov",1
+"4","Anna_Pavlovna_Scherer","Bilibin",1
+"4","Anna_Pavlovna_Scherer","Vasili_Kuragin",1
+"4","Anna_Pavlovna_Scherer","неопытный молодой человек",1
+"4","Bagovut","Capt_von_Toll",1
+"4","Bilibin","Anna_Pavlovna_Scherer",2
+"4","Bolhovitinov","Shcherbinin",3
+"4","Bolhovitinov","денщик",2
+"4","Capt_von_Toll","Mikhail_Ilarionovich_Kutuzov",1
+"4","Captain_Ramballe","солдаты",1
+"4","Catiche_eldest princess_","Pierre_Bezukhov",2
+"4","Count_Bennigsen","Yermolov",1
+"4","Count_Ilya_Rostov","NatashaRostova",1
+"4","Count_Ilya_Rostov","Princess_Mariya_Bolkonskaya",1
+"4","Count_Vasily_Orlov_Denisov","один из свиты",1
+"4","Count_Vasily_Orlov_Denisov","унтер_офицер",1
+"4","Countess_Natalya_Rostova","NatashaRostova",5
+"4","Countess_Natalya_Rostova","Princess_Mariya_Bolkonskaya",7
+"4","Countess_Natalya_Rostova","Sonya_Rostova",4
+"4","Dunyasha","NatashaRostova",1
+"4","Fedor_Ivanovich_Dolokhov","Petya_Rostov",11
+"4","Fedor_Ivanovich_Dolokhov","Vasily_Vasska_Denisov",10
+"4","Fedor_Ivanovich_Dolokhov","казак",1
+"4","Fedor_Ivanovich_Dolokhov","пленные",1
+"4","French drummer boy","Petya_Rostov",1
+"4","General_Davoust","Pierre_Bezukhov",8
+"4","Hippolyte_Kuragin","Anna_Pavlovna_Scherer",1
+"4","Lavrushka","Nikolai_Rostov",1
+"4","Michaud","Tsar_Alexander_I_of_Russia",8
+"4","Mikhail_Ilarionovich_Kutuzov","Bolhovitinov",5
+"4","Mikhail_Ilarionovich_Kutuzov","Capt_von_Toll",3
+"4","Mikhail_Ilarionovich_Kutuzov","Miloradovich",1
+"4","Mikhail_Ilarionovich_Kutuzov","Piotr_Petrovich_Konovnitsyn",1
+"4","Mikhail_Ilarionovich_Kutuzov","Yermolov",1
+"4","Mikhail_Ilarionovich_Kutuzov","Чичагов",1
+"4","Mikhail_Ilarionovich_Kutuzov","генерал",2
+"4","Mikhail_Ilarionovich_Kutuzov","другой генерал",1
+"4","Mikhail_Ilarionovich_Kutuzov","офицеры",2
+"4","Mikhail_Ilarionovich_Kutuzov","солдат",1
+"4","Mikhail_Ilarionovich_Kutuzov","солдаты",6
+"4","NatashaRostova","AndreyBolkonsky",8
+"4","NatashaRostova","Countess_Natalya_Rostova",8
+"4","NatashaRostova","Dunyasha",1
+"4","NatashaRostova","Pierre_Bezukhov",10
+"4","NatashaRostova","Princess_Mariya_Bolkonskaya",28
+"4","NatashaRostova","Sonya_Rostova",30
+"4","Nikolai_Rostov","Lavrushka",2
+"4","Nikolai_Rostov","Princess_Mariya_Bolkonskaya",2
+"4","Nikolai_Rostov","governor_s wife",13
+"4","Nikolai_Rostov","Никита Иваныч _муж блондинки_",1
+"4","Nikolai_Rostov","блондинка",2
+"4","Petya_Rostov","Fedor_Ivanovich_Dolokhov",8
+"4","Petya_Rostov","French drummer boy",3
+"4","Petya_Rostov","Vasily_Vasska_Denisov",17
+"4","Petya_Rostov","esaul Lovaysky",1
+"4","Petya_Rostov","Лихачев",7
+"4","Pierre_Bezukhov","Catiche_eldest princess_",3
+"4","Pierre_Bezukhov","General_Davoust",4
+"4","Pierre_Bezukhov","NatashaRostova",19
+"4","Pierre_Bezukhov","Platon_Karataev",11
+"4","Pierre_Bezukhov","Princess_Mariya_Bolkonskaya",9
+"4","Pierre_Bezukhov","Савельич",5
+"4","Pierre_Bezukhov","Терентий",1
+"4","Pierre_Bezukhov","главноуправляющий",1
+"4","Pierre_Bezukhov","капитан",1
+"4","Pierre_Bezukhov","капрал",2
+"4","Pierre_Bezukhov","официант",1
+"4","Pierre_Bezukhov","собачонка",1
+"4","Pierre_Bezukhov","солдат",2
+"4","Piotr_Petrovich_Konovnitsyn","Bolhovitinov",1
+"4","Piotr_Petrovich_Konovnitsyn","Shcherbinin",1
+"4","Platon_Karataev","Pierre_Bezukhov",40
+"4","Princess_Mariya_Bolkonskaya","AndreyBolkonsky",1
+"4","Princess_Mariya_Bolkonskaya","Anna_Ignatyevna_Malvintsev",1
+"4","Princess_Mariya_Bolkonskaya","Countess_Natalya_Rostova",1
+"4","Princess_Mariya_Bolkonskaya","NatashaRostova",25
+"4","Princess_Mariya_Bolkonskaya","Nikolai_Rostov",1
+"4","Princess_Mariya_Bolkonskaya","Pierre_Bezukhov",21
+"4","Shcherbinin","Bolhovitinov",6
+"4","Shcherbinin","денщик",4
+"4","Sonya_Rostova","Countess_Natalya_Rostova",1
+"4","Sonya_Rostova","NatashaRostova",12
+"4","Sonya_Rostova","Princess_Mariya_Bolkonskaya",1
+"4","Tikhon_Shtcherbatov","Petya_Rostov",2
+"4","Tikhon_Shtcherbatov","Vasily_Vasska_Denisov",9
+"4","Tikhon_Shtcherbatov","esaul Lovaysky",2
+"4","Tsar_Alexander_I_of_Russia","Michaud",9
+"4","Vasili_Kuragin","Anna_Pavlovna_Scherer",4
+"4","Vasily_Vasska_Denisov","Fedor_Ivanovich_Dolokhov",6
+"4","Vasily_Vasska_Denisov","Petya_Rostov",18
+"4","Vasily_Vasska_Denisov","Tikhon_Shtcherbatov",9
+"4","Vasily_Vasska_Denisov","esaul Lovaysky",7
+"4","Vasily_Vasska_Denisov","немец начальник отряда",1
+"4","Villarsky","Pierre_Bezukhov",1
+"4","Yermolov","Capt_von_Toll",1
+"4","Yermolov","Mikhail_Ilarionovich_Kutuzov",1
+"4","Yermolov","Raevsky",1
+"4","esaul Lovaysky","Tikhon_Shtcherbatov",1
+"4","esaul Lovaysky","Vasily_Vasska_Denisov",5
+"4","governor_s wife","Nikolai_Rostov",13
+"4","mademoiselle_Bourienne","Princess_Mariya_Bolkonskaya",1
+"4","Залетаев","Морель",1
+"4","Итальянец","Pierre_Bezukhov",1
+"4","Киселев","солдаты",1
+"4","Лихачев","Petya_Rostov",7
+"4","Савельич","Pierre_Bezukhov",4
+"4","Чичагов","Mikhail_Ilarionovich_Kutuzov",1
+"4","востроносенький солдат","старый солдат",1
+"4","гайдук","Princess_Mariya_Bolkonskaya",2
+"4","генерал","Pierre_Bezukhov",1
+"4","губернатор","Nikolai_Rostov",1
+"4","гусар","Petya_Rostov",2
+"4","денщик","Bolhovitinov",1
+"4","денщик","Shcherbinin",1
+"4","денщик Ермолова","кавалергардский офицер",1
+"4","доктор","Pierre_Bezukhov",1
+"4","другой солдат","фельдфебель",1
+"4","казак","Fedor_Ivanovich_Dolokhov",1
+"4","казак","Petya_Rostov",3
+"4","казаки","Tikhon_Shtcherbatov",1
+"4","казачий офицер","кавалергардский офицер",1
+"4","капитан","Pierre_Bezukhov",7
+"4","капрал","Pierre_Bezukhov",2
+"4","кто_то","Mikhail_Ilarionovich_Kutuzov",1
+"4","кто_то","Pierre_Bezukhov",2
+"4","один из свиты","Count_Vasily_Orlov_Denisov",2
+"4","один солдат","плясун",1
+"4","офицер","Fedor_Ivanovich_Dolokhov",2
+"4","офицеры","Fedor_Ivanovich_Dolokhov",2
+"4","официант","Pierre_Bezukhov",1
+"4","первый солдат","плясун",1
+"4","первый солдат","фельдфебель",1
+"4","плясун","солдат",4
+"4","плясун","солдаты",1
+"4","похвалы","Vasili_Kuragin",1
+"4","рыжий","плясун",1
+"4","солдат","Captain_Ramballe",1
+"4","солдат","Pierre_Bezukhov",1
+"4","солдат","Киселев",1
+"4","солдат","Макеев",1
+"4","солдат","Морель",3
+"4","солдат","плясун",2
+"4","солдат","солдаты",1
+"4","солдат 2","старый солдат",1
+"4","солдат 5","солдаты",1
+"4","солдат 8","Макеев",1
+"4","солдаты","Залетаев",1
+"4","солдаты","Морель",1
+"4","солдаты","казаки и гусары",1
+"4","солдаты","один солдат",1
+"4","солдаты","фельдфебель",4
+"4","старичок","Pierre_Bezukhov",1
+"4","старый солдат","востроносенький солдат",1
+"4","старый солдат","фельдфебель",1
+"4","упреки","солдат",1
+"4","учитель","Pierre_Bezukhov",3
+"4","фельдфебель","плясун",2
+"4","фельдфебель","солдат",2
+"4","француз","Pierre_Bezukhov",4
+"4","француз","пленный солдат",1
+"4","часовой","Fedor_Ivanovich_Dolokhov",2
+"4","человек","Petya_Rostov",2
+"4","штабный товарищ","кавалергардский офицер",1
+"4","шутник","Морель",1
